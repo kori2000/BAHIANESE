@@ -6,6 +6,6 @@ Welcome to BAHIANESE, a cool music player where you can play different instrumen
 ## Documentation
 - https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#configuration-options
 
-# Website
+## Website
 
-http://music.koraltan.de
+- http://music.koraltan.de
